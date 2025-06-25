@@ -2,7 +2,7 @@
 
 Overview
 
-This project is an end-to-end Movie Recommendation System, developed as part of a guided project from the CampusX website. The system provides personalized movie recommendations based on user input using machine learning techniques.
+This project is an end-to-end Movie Recommendation System.The system provides personalized movie recommendations based on user input using machine learning techniques.
 
 Features:
 
@@ -69,18 +69,4 @@ Click on suggested movies for more details.
 Deployment:
 
 You can deploy this app using Heroku, Render, or AWS Lambda by following their deployment guides.
-
-Future Improvements:
-
-Enhance the recommendation engine with deep learning models.
-
-Include real-time movie ratings and user reviews.
-
-Deploy using cloud-based services for better scalability.
-
-Credits:
-
-Project guided by CampusX
-
-Dataset sourced from MovieLens / TMDB
 
